@@ -32,5 +32,8 @@ Exploratory Data Analysis (EDA):
 
 
 Results
-Descriptive Analysis: Summary statistics, distributions, and feature correlations.
-Visualizations: Insights on age, gender, cholesterol, and other factors influencing heart disease.
+
+Descriptive Analysis: 
+  Summary statistics, distributions, and feature correlations.
+Visualizations: 
+  Insights on age, gender, cholesterol, and other factors influencing heart disease.
